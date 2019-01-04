@@ -1,4 +1,4 @@
-puts "Donne moi un chiffre en 1 et 25"
+puts "Donne moi un chiffre entre 1 et 25 !"
 print ">"
 
 number = gets.chomp.to_i
